@@ -4,7 +4,7 @@ Hi 👋 My name is Nico Uicich
 I'm a FullStack Developer and CyberSecurity consultant at Deloitte
 ------------------------------------------------------------------
 
-I started with this beautiful career in 2014 when I began studying to be a software engineer. I love developing all kinds of applications and learning new technologies.
+I started with this beautiful career in 2015 when I began studying to be a software engineer. I love developing all kinds of applications and learning new technologies.
 
 * 🌍  I'm based in Argentina
 * ✉️  You can contact me at [nico\_uicich@outlook.com](mailto:nico_uicich@outlook.com)
