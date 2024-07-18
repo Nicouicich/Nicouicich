@@ -1,7 +1,7 @@
 Hi 👋 My name is Nico Uicich
 ============================
 
-I'm a FullStack Software Engineer at Avature
+I'm a Backend Software Engineer at Brainstems
 ------------------------------------------------------------------
 
 I started with this beautiful career in 2015 when I began studying to be a software engineer. I love developing all kinds of applications and learning new technologies.
