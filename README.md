@@ -9,7 +9,7 @@ I started with this beautiful career in 2015 when I began studying to be a softw
 * 🌍  I'm based in Argentina
 * ✉️  You can contact me at [nico\_uicich@outlook.com](mailto:nico_uicich@outlook.com)
 * 🧠  I'm learning New Databases
-* 🤝  I'm open to collaborating on Artificial Intelligence
+* 🤝  I'm open to collaborate on Artificial Intelligence projects
 
 <a href="https://www.twitter.com/NicoUicich" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/NicoUicich?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
