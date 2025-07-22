@@ -28,11 +28,11 @@ I enjoy building reliable systems, learning new technologies, and simplifying co
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL" /></a>
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="MongoDB" /></a>
   <a href="https://redis.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="36" height="36" alt="Redis" /></a>
-  <a href="https://kafka.apache.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Apache_kafka-icon.svg" width="36" height="36" alt="Kafka" /></a>
+  <a href="https://kafka.apache.org/" target="_blank"><img src="[https://upload.wikimedia.org/wikipedia/commons/8/8b/Apache_kafka-icon.svg](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/apachekafka.svg" width="36" height="36" alt="Kafka" /></a>
   <a href="https://www.rabbitmq.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/71/RabbitMQ_logo.svg" width="36" height="36" alt="RabbitMQ" /></a>
   <a href="https://graphql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="36" height="36" alt="GraphQL" /></a>
   <a href="https://aws.amazon.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="36" height="36" alt="AWS" /></a>
-  <a href="https://sentry.io/" target="_blank"><img src="https://raw.githubusercontent.com/getsentry/sentry-brand/master/sentry-logomark.svg" width="36" height="36" alt="Sentry" /></a>
+  <a href="https://sentry.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/auth0.svg" width="36" height="36" alt="Sentry" /></a>
 </p>
 
 #### 🧱 Also Experienced With
@@ -43,7 +43,6 @@ I enjoy building reliable systems, learning new technologies, and simplifying co
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="36" height="36" alt="TailwindCSS" /></a>
   <a href="https://firebase.google.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="36" height="36" alt="Firebase" /></a>
   <a href="https://auth0.com/" target="_blank"><img src="https://cdn.auth0.com/styleguide/components/1.0.8/media/logos/img/badge.png" width="36" height="36" alt="Auth0" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/WebSocket_logo.svg/512px-WebSocket_logo.svg.png" width="36" height="36" alt="WebSockets" /></a>
 </p>
 
 
@@ -57,14 +56,6 @@ I enjoy building reliable systems, learning new technologies, and simplifying co
 - Event-driven architecture  
 - PostgreSQL internals and DB optimization  
 - Clean architecture and modular monoliths
-
----
-
-### 📫 Contact
-
-- 📧 [nico_uicich@outlook.com](mailto:nico_uicich@outlook.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/nicolas-uicich)  
-- 🐦 [Twitter](https://twitter.com/NicoUicich)
 
 ---
 
@@ -87,5 +78,24 @@ Let’s talk instead.
 I'm always open to interesting chats, ideas, or collaborations — just reach out 😉
 
 ---
+
+### 🤝 Let’s Connect
+
+<p align="center">
+  <a href="mailto:nico_uicich@outlook.com?subject=👋%20Hola%20Nico" target="_blank">
+    <img src="https://img.shields.io/badge/Let’s%20Connect-Email-blue?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/nicolas-uicich" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-@nicolas--uicich-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://twitter.com/NicoUicich" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-@NicoUicich-1da1f2?style=for-the-badge&logo=twitter" />
+  </a>
+</p>
+
+---
+
+Thanks for visiting! 👋
+
 
 Thanks for dropping by 👋
