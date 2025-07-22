@@ -23,7 +23,7 @@ I enjoy building reliable systems, learning new technologies, and simplifying co
 
 <p align="left">
   <a href="https://nodejs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" height="36" alt="Node.js" /></a>
-  <a href="https://nestjs.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="36" height="36" alt="NestJS" /></a>
+  <a href="https://nestjs.com/" target="_blank"><img src="https://nestjs.com/img/logo-small.svg" width="36" height="36" alt="NestJS" /></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript" /></a>
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL" /></a>
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="MongoDB" /></a>
@@ -42,9 +42,10 @@ I enjoy building reliable systems, learning new technologies, and simplifying co
   <a href="https://vuejs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="36" height="36" alt="Vue.js" /></a>
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="36" height="36" alt="TailwindCSS" /></a>
   <a href="https://firebase.google.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="36" height="36" alt="Firebase" /></a>
-  <a href="https://auth0.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/auth0/auth0-original.svg" width="36" height="36" alt="Auth0" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API" target="_blank"><img src="https://raw.githubusercontent.com/adafruit/Adafruit-WebBluetooth-Dashboard/main/images/websocket-logo.svg" width="36" height="36" alt="WebSockets" /></a>
+  <a href="https://auth0.com/" target="_blank"><img src="https://raw.githubusercontent.com/limhenry/auth0-logo/main/Auth0%20Vertical%20White%20Orange/Auth0%20Vertical%20Orange.svg" width="36" height="36" alt="Auth0" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Websocket-icon.svg" width="36" height="36" alt="WebSockets" /></a>
 </p>
+
 
 
 ---
