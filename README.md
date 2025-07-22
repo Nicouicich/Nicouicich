@@ -28,7 +28,7 @@ I enjoy building reliable systems, learning new technologies, and simplifying co
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL" /></a>
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="MongoDB" /></a>
   <a href="https://redis.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="36" height="36" alt="Redis" /></a>
-  <a href="https://kafka.apache.org/" target="_blank"><img src="[https://upload.wikimedia.org/wikipedia/commons/8/8b/Apache_kafka-icon.svg](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/apachekafka.svg" width="36" height="36" alt="Kafka" /></a>
+  <a href="https://kafka.apache.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/apachekafka.svg" width="36" height="36" alt="Kafka" /></a>
   <a href="https://www.rabbitmq.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/71/RabbitMQ_logo.svg" width="36" height="36" alt="RabbitMQ" /></a>
   <a href="https://graphql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="36" height="36" alt="GraphQL" /></a>
   <a href="https://aws.amazon.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="36" height="36" alt="AWS" /></a>
@@ -40,12 +40,10 @@ I enjoy building reliable systems, learning new technologies, and simplifying co
 <p align="left">
   <a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36" alt="React" /></a>
   <a href="https://vuejs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="36" height="36" alt="Vue.js" /></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="36" height="36" alt="TailwindCSS" /></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="36" height="36" alt="TailwindCSS" /></a>
   <a href="https://firebase.google.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="36" height="36" alt="Firebase" /></a>
   <a href="https://auth0.com/" target="_blank"><img src="https://cdn.auth0.com/styleguide/components/1.0.8/media/logos/img/badge.png" width="36" height="36" alt="Auth0" /></a>
 </p>
-
-
 
 
 ---
