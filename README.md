@@ -13,7 +13,7 @@
 ### 👨‍💻 About Me
 
 I build the payments backend and the LLM layer on top of it.
-Five years in software, four shipping TypeScript and Node.js, the last two where money and AI meet.
+5+ years in TypeScript and Node.js, the last two where money and AI meet.
 
 Today I'm on the **Ramps team at Rise**, a global payroll platform that pays contractors in fiat and stablecoins. I work on money movement: virtual bank accounts, fiat on and off ramps, crypto withdrawals and a public payroll API.
 
